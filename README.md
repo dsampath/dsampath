@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Projects
+
+- [TV App Starter](https://github.com/dsampath/tv-app-starter) — Native Apple TV and Android TV samples with a reusable Codex skill and Claude Code plugin. Private preview while I test; planned for open-source release.
